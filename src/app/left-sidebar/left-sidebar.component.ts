@@ -29,6 +29,11 @@ export class LeftSidebarComponent {
       label: 'Pages',
     },
     {
+      routeLink: 'ventas',
+      icon: 'fal fa-shopping-cart',
+      label: 'Sales',
+    },
+    {
       routeLink: 'settings',
       icon: 'fal fa-cog',
       label: 'Settings',
